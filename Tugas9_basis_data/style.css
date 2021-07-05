@@ -1,0 +1,24 @@
+
+body {
+    text-align:center;
+    font-family:lucida sans regular, sans-serif;
+    background-image: url("https://2.bp.blogspot.com/-EBppgk3MLi4/VvdNftLCSRI/AAAAAAAACNc/Q8WhhQlJ0nwOgf3tVeQa6aTz2lYi_uUsQ/s1600/Psd%2Btumbnail.jpg");
+
+}
+table {
+    border-collapse: collapse;
+   
+}
+th, td {
+    font-size: 13px; 
+    border: 1px solid #000000; 
+    padding: 3px 5px; 
+    color: #303030;
+    background-image: url("https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148925555.jpg?size=626&ext=jpg");
+}
+th {
+
+    background: #0a81e2;
+    font-size: 12px; 
+    border-color:#000000;
+}
